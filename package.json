@@ -1,0 +1,19 @@
+{
+  "name": "online-shop-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosetta-ai/online-shop-components.git"
+  },
+  "author": "Ting-Hao Chang <ztingh@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/rosetta-ai/online-shop-components/issues"
+  },
+  "homepage": "https://github.com/rosetta-ai/online-shop-components#readme",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1"
+  }
+}
