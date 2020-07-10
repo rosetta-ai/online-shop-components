@@ -13,7 +13,7 @@
     "url": "https://github.com/rosetta-ai/online-shop-components/issues"
   },
   "homepage": "https://github.com/rosetta-ai/online-shop-components#readme",
-  "dependencies": {
+  "peerDependencies": {
     "@glidejs/glide": "^3.4.1"
   }
 }
